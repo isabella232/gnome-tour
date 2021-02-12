@@ -385,15 +385,15 @@
     <linearGradient
        id="linearGradient1206">
       <stop
-         style="stop-color:#7a718c;stop-opacity:1"
+         style="stop-color:#504f56;stop-opacity:1"
          offset="0"
          id="stop1202" />
       <stop
-         style="stop-color:#6c647c;stop-opacity:1;"
+         style="stop-color:#4d4759;stop-opacity:1"
          offset="0.1469707"
          id="stop1210" />
       <stop
-         style="stop-color:#6c647c;stop-opacity:1"
+         style="stop-color:#5e5c64;stop-opacity:1"
          offset="1"
          id="stop1204" />
     </linearGradient>
@@ -408,15 +408,15 @@
     <linearGradient
        id="linearGradient1160">
       <stop
-         style="stop-color:#554f62;stop-opacity:1"
+         style="stop-color:#484253;stop-opacity:1"
          offset="0"
          id="stop1156" />
       <stop
-         style="stop-color:#89819a;stop-opacity:1"
+         style="stop-color:#4d4c52;stop-opacity:1"
          offset="0.28599343"
          id="stop1164" />
       <stop
-         style="stop-color:#675f76;stop-opacity:1"
+         style="stop-color:#5e5c64;stop-opacity:1"
          offset="1"
          id="stop1158" />
     </linearGradient>
@@ -436,19 +436,19 @@
          offset="0"
          id="stop1131" />
       <stop
-         style="stop-color:#5a5367;stop-opacity:1"
-         offset="0.05767893"
+         style="stop-color:#3d3846;stop-opacity:1"
+         offset="0.06530682"
          id="stop1143" />
       <stop
-         style="stop-color:#665e75;stop-opacity:1"
+         style="stop-color:#49474e;stop-opacity:1"
          offset="0.09288651"
          id="stop1141" />
       <stop
-         style="stop-color:#6f667f;stop-opacity:1"
+         style="stop-color:#434147;stop-opacity:1"
          offset="0.9681676"
          id="stop1139" />
       <stop
-         style="stop-color:#625970;stop-opacity:1"
+         style="stop-color:#5e5c64;stop-opacity:1"
          offset="1"
          id="stop1133" />
     </linearGradient>
@@ -511,14 +511,14 @@
          clip-path="url(#clipPath2067)">
         <path
            id="path2191"
-           style="fill:#62a0ea;fill-opacity:1;stroke-width:2.99999;stroke-opacity:0.956856;stop-color:#000000"
+           style="fill:#73aaec;fill-opacity:1;stroke-width:2.99999;stroke-opacity:0.956856;stop-color:#000000"
            d="m 531.94995,688 v 29 a 8,8 135 0 1 -8,8 H 523 a 8,8 135 0 0 -8,8 v 4 a 8,8 135 0 1 -8,8 h -29 a 8,8 45 0 1 -8,-8 v -19 a 8,8 135 0 1 8,-8 h 4 a 8,8 135 0 0 8,-8 v -14 a 8,8 135 0 1 8,-8 h 25.94995 a 8,8 45 0 1 8,8 z" />
         <path
            id="path2193"
-           style="fill:#62a0ea;fill-opacity:1;stroke-width:5.9097;stroke-opacity:0.956856;stop-color:#000000"
+           style="fill:#73aaec;fill-opacity:1;stroke-width:5.9097;stroke-opacity:0.956856;stop-color:#000000"
            d="m 590,783 v 64 a 8,8 135 0 1 -8,8 h -19 a 8,8 135 0 0 -8,8 v 24 a 8,8 135 0 1 -8,8 h -69 a 8,8 45 0 1 -8,-8 v -54 a 8,8 135 0 1 8,-8 h 14 a 8,8 135 0 0 8,-8 v -34 a 8,8 135 0 1 8,-8 h 74 a 8,8 45 0 1 8,8 z" />
         <path
-           style="fill:#62a0ea;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#73aaec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 292.5,803 v 30 H 186.04919 V 697.82048 L 267.5,710 v 68 z"
            id="path2195" />
       </g>
@@ -1101,7 +1101,7 @@
         <path
            id="rect1072"
            style="fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:1.99999;stop-color:#000000"
-           d="m -180.09642,80 h 42.31412 c 32.59899,0 58.823529,26.24396 58.842938,58.84294 L -78.83984,291 h -160 l -0.0995,-152.15706 C -238.96066,106.24396 -212.69541,80 -180.09642,80 Z" />
+           d="m -180.09642,80.000001 h 42.31412 c 32.59899,0 58.823529,26.865859 58.842938,60.237319 l 0.09952,155.76269 H -238.83984 l -0.0995,-155.76269 c -0.0213,-33.37146 26.24393,-60.237319 58.84292,-60.237319 z" />
         <path
            id="path1149"
            style="fill:url(#linearGradient1208);fill-opacity:1;stroke:none;stroke-width:1.99999;stop-color:#000000"
